@@ -2,7 +2,7 @@ import sys
 import unittest
 from unittest import TestCase
 
-from qsort import qsort
+from dsa import qsort
 
 # https://docs.python.org/3/library/unittest.html
 
